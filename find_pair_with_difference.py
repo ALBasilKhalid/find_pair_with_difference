@@ -1,4 +1,4 @@
-#ALBASIL AL-RAWAHI      138410
+#ALBASIL AL-RAWAHI      
 """
 Algorithm:
 Define a function binary_search(arr, target) that implements binary search to find if the target element exists in the sorted array 'arr'.
